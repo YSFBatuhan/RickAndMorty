@@ -1,3 +1,3 @@
-# deneme
+# RickAndMorty
 
-A new Flutter project.
+RICK AND MORTY API used to while doing this project
